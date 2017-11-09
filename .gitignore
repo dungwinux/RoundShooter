@@ -8,4 +8,5 @@ RoundShooter.exe
 *.lps
 *.res
 *.dbg
-
+*.exe
+*.cpp
